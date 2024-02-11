@@ -16,7 +16,15 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 
 6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
 
-
+##ScreenShots
+![IMG-20240211-WA0002.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0002.jpg)
+![IMG-20240211-WA0006.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0006.jpg)
+![IMG-20240211-WA0001.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0001.jpg)
+![IMG-20240211-WA0007.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0007.jpg)
+![IMG-20240211-WA0004.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0004.jpg)
+![IMG-20240211-WA0005.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0005.jpg)
+![IMG-20240211-WA0008.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0008.jpg)
+![IMG-20240211-WA0003.jpg](..%2F..%2FDesktop%2FIMG-20240211-WA0003.jpg)
 Packages used:
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
 - easy_widgets: A package that offers easy-to-use widgets for common UI components in Flutter apps.
