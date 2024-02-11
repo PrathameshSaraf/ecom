@@ -18,9 +18,9 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 
 ##ScreenShots
 <div style="display:flex; justify-content:center;">
-    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" />
-    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" />
-    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" />
+    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 5px;" />
+    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" style="padding: 5px;"/>
+    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" style="padding: 5px;"/>
 </div>
 <br>
 <div style="display:flex; justify-content:center;">
