@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703581243867",
+    "project_id": "ecom-defe6",
+    "storage_bucket": "ecom-defe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703581243867:android:cb2aa2847c53009db17ffe",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPmS3tHKg_Zlr12cnTBhpyZMoMPZBqEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
