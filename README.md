@@ -67,8 +67,6 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 <br>
 - provider: A state management package that provides a simple way to manage app state and update UI components accordingly.
 <br>
-- dropdown_button2: An enhanced version of the Flutter dropdown button widget with added features and customization options.
-<br>
 - firebase_auth: Provides Firebase authentication services for Flutter apps.
 <br>
 - firebase_core: Required for using Firebase services in Flutter apps.
