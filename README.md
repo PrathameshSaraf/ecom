@@ -1,6 +1,6 @@
 This is an Ecom Flutter app project.
 
-In this project, I used the Stacked architecture, which is a MVVM (Model-View-ViewModel) architecture that helps to separate the concerns of your app's components, making it easier to maintain and scale.
+In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
 Packages used:
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
@@ -19,4 +19,27 @@ Packages used:
 - firebase_core: Required for using Firebase services in Flutter apps.
 - dio: A powerful HTTP client for Flutter and Dart, providing support for interceptors, FormData, request cancellation, and more.
 
-Feel free to explore and modify this project to suit your needs!
+## How to Run the Flutter App
+
+To run this Flutter app, follow these steps:
+
+1. **Setup Flutter Environment:** Ensure you have Flutter installed on your system. If not, follow the official Flutter installation guide: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+
+2. **Clone the Repository:** Clone this repository to your local machine using Git:
+   ```bash
+   git clone <repository-url>
+   ```
+3. Navigate to Project Directory: Change your current directory to the project directory:
+   ```bash
+    cd <project-directory>  
+   ``` 
+   
+4. Install Dependencies: Run the following command to install project dependencies:
+   ```bash
+   flutter pub get
+   ```
+5. Run the App: Use the following command to run the Flutter app on your connected device or emulator:
+  ```bash
+     flutter run
+```
+
