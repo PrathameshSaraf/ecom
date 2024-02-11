@@ -1,12 +1,14 @@
 # Ecom Flutter app project.
 
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
+Stacked implements separation of concerns and dependency injection by building Flutter code around 3 entities: Views, ViewModels, and Services.
 
 <hr />
-## Api 
+
+## API 
 ```bash
-https://fakestoreapi.com/products
-```
+    https://fakestoreapi.com/products 
+   ```
 
 ## Features
 <hr />
