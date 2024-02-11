@@ -17,15 +17,24 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
 
 ##ScreenShots
+<div style="display:flex; justify-content:center;">
+    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" />
+    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" />
+    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" />
+</div>
+<br>
+<div style="display:flex; justify-content:center;">
+    <img src="screenshot/IMG-20240211-WA0004.jpg" alt="screenshot1" width="200" />
+    <img src="screenshot/IMG-20240211-WA0001.jpg" alt="screenshot2" width="200" />
+    <img src="screenshot/IMG-20240211-WA0007.jpg" alt="screenshot3" width="200" />
+</div>
+<div style="display:flex; justify-content:center;">
+    <img src="screenshot/IMG-20240211-WA0008.jpg" alt="screenshot1" width="200" />
+    <img src="screenshot/IMG-20240211-WA0005.jpg" alt="screenshot2" width="200" />
+</div>
 
-![plot](screenshot/IMG-20240211-WA0001.jpg)
-![plot](screenshot/IMG-20240211-WA0002.jpg)
-![plot](screenshot/IMG-20240211-WA0003.jpg)
-![plot](screenshot/IMG-20240211-WA0004.jpg)
-![plot](screenshot/IMG-20240211-WA0005.jpg)
-![plot](screenshot/IMG-20240211-WA0006.jpg)
-![plot](screenshot/IMG-20240211-WA0007.jpg)
-![plot](screenshot/IMG-20240211-WA0008.jpg)
+ 
+
 
 
 
