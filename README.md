@@ -1,4 +1,4 @@
-This is an Ecom Flutter app project.
+#Ecom Flutter app project.
 
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
@@ -21,20 +21,20 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 ##ScreenShots
 <hr />
 <div style="display:flex; justify-content:center;">
-    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 15px;" />
-    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" style="padding: 15px;"/>
-    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" style="padding: 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 15px 15px;" />
+    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" style="padding: 15px 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" style="padding: 15px 15px;"/>
 </div>
 <hr />
 <div style="display:flex; justify-content:center;">
-    <img src="screenshot/IMG-20240211-WA0004.jpg" alt="screenshot1" width="200" />
-    <img src="screenshot/IMG-20240211-WA0001.jpg" alt="screenshot2" width="200" />
-    <img src="screenshot/IMG-20240211-WA0007.jpg" alt="screenshot3" width="200" />
+    <img src="screenshot/IMG-20240211-WA0004.jpg" alt="screenshot1" width="200" style="padding: 15px 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0001.jpg" alt="screenshot2" width="200" style="padding: 15px 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0007.jpg" alt="screenshot3" width="200" style="padding: 15px 15px;"/>
 </div>
 <hr />
 <div style="display:flex; justify-content:center;">
-    <img src="screenshot/IMG-20240211-WA0008.jpg" alt="screenshot1" width="200" />
-    <img src="screenshot/IMG-20240211-WA0005.jpg" alt="screenshot2" width="200" />
+    <img src="screenshot/IMG-20240211-WA0008.jpg" alt="screenshot1" width="200" style="padding: 15px 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0005.jpg" alt="screenshot2" width="200" style="padding: 15px 15px;"/>
 </div>
 <hr />
  
@@ -45,19 +45,33 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 Packages used:
 <hr />
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
+<br>
 - easy_widgets: A package that offers easy-to-use widgets for common UI components in Flutter apps.
+<br>
 - flutter_screenutil: Helps to make responsive UI designs by adapting UI elements to different screen sizes and resolutions.
+<br>
 - stacked: A package that provides architecture components for implementing the MVVM pattern in Flutter apps.
+<br>
 - stacked_services: Offers a set of services for navigation, dialog, and bottom sheet management in Stacked architecture.
+<br>
 - auto_route: A Flutter navigation package that generates route helpers and provides strongly-typed routing and deep linking.
+<br>
 - stacked_generator: Code generation package for the Stacked architecture to streamline development.
+<br>
 - injectable: A package for dependency injection in Dart and Flutter apps, making it easier to manage dependencies and decouple components.
+<br>
 - intl: Provides internationalization and localization support for Flutter apps.
+- 
 - build_runner: A tool that helps to generate code for projects that use package:build.
+- 
 - provider: A state management package that provides a simple way to manage app state and update UI components accordingly.
+- 
 - dropdown_button2: An enhanced version of the Flutter dropdown button widget with added features and customization options.
+- 
 - firebase_auth: Provides Firebase authentication services for Flutter apps.
+- 
 - firebase_core: Required for using Firebase services in Flutter apps.
+- 
 - dio: A powerful HTTP client for Flutter and Dart, providing support for interceptors, FormData, request cancellation, and more.
 
 <hr />
