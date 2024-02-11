@@ -2,8 +2,9 @@ This is an Ecom Flutter app project.
 
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
-
+<hr />
 ##Features
+<hr />
 1. 🔐 User Login: Allow users to securely log in to their accounts using their credentials.
 
 2. ✏️ User Signup: Enable new users to create accounts by providing necessary information and registering securely.
@@ -15,30 +16,34 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 5. 🛒 Add to Cart: Enable users to add desired products to their shopping cart for convenient and quick purchase.
 
 6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
+<hr />
 
 ##ScreenShots
+<hr />
 <div style="display:flex; justify-content:center;">
-    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 5px;" />
-    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" style="padding: 5px;"/>
-    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" style="padding: 5px;"/>
+    <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 15px;" />
+    <img src="screenshot/IMG-20240211-WA0002.jpg" alt="screenshot2" width="200" style="padding: 15px;"/>
+    <img src="screenshot/IMG-20240211-WA0003.jpg" alt="screenshot3" width="200" style="padding: 15px;"/>
 </div>
-<br>
+<hr />
 <div style="display:flex; justify-content:center;">
     <img src="screenshot/IMG-20240211-WA0004.jpg" alt="screenshot1" width="200" />
     <img src="screenshot/IMG-20240211-WA0001.jpg" alt="screenshot2" width="200" />
     <img src="screenshot/IMG-20240211-WA0007.jpg" alt="screenshot3" width="200" />
 </div>
+<hr />
 <div style="display:flex; justify-content:center;">
     <img src="screenshot/IMG-20240211-WA0008.jpg" alt="screenshot1" width="200" />
     <img src="screenshot/IMG-20240211-WA0005.jpg" alt="screenshot2" width="200" />
 </div>
-
+<hr />
  
 
 
 
 
 Packages used:
+<hr />
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
 - easy_widgets: A package that offers easy-to-use widgets for common UI components in Flutter apps.
 - flutter_screenutil: Helps to make responsive UI designs by adapting UI elements to different screen sizes and resolutions.
@@ -55,6 +60,7 @@ Packages used:
 - firebase_core: Required for using Firebase services in Flutter apps.
 - dio: A powerful HTTP client for Flutter and Dart, providing support for interceptors, FormData, request cancellation, and more.
 
+<hr />
 ## How to Run the Flutter App
 
 To run this Flutter app, follow these steps:
