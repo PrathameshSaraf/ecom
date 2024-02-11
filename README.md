@@ -1,9 +1,10 @@
-#Ecom Flutter app project.
+# Ecom Flutter app project.
 
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
 <hr />
-##Features
+
+## Features
 <hr />
 1. 🔐 User Login: Allow users to securely log in to their accounts using their credentials.
 
@@ -18,7 +19,7 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
 <hr />
 
-##ScreenShots
+## ScreenShots
 <hr />
 <div style="display:flex; justify-content:center;">
     <img src="screenshot/IMG-20240211-WA0006.jpg" alt="screenshot1" width="200" style="padding: 15px 15px;" />
@@ -42,7 +43,7 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 
 
 
-Packages used:
+## Packages used:
 <hr />
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
 <br>
@@ -61,20 +62,21 @@ Packages used:
 - injectable: A package for dependency injection in Dart and Flutter apps, making it easier to manage dependencies and decouple components.
 <br>
 - intl: Provides internationalization and localization support for Flutter apps.
-- 
+<br>
 - build_runner: A tool that helps to generate code for projects that use package:build.
-- 
+<br>
 - provider: A state management package that provides a simple way to manage app state and update UI components accordingly.
-- 
+<br>
 - dropdown_button2: An enhanced version of the Flutter dropdown button widget with added features and customization options.
-- 
+<br>
 - firebase_auth: Provides Firebase authentication services for Flutter apps.
-- 
+<br>
 - firebase_core: Required for using Firebase services in Flutter apps.
-- 
+<br>
 - dio: A powerful HTTP client for Flutter and Dart, providing support for interceptors, FormData, request cancellation, and more.
-
+<br>
 <hr />
+
 ## How to Run the Flutter App
 
 To run this Flutter app, follow these steps:
