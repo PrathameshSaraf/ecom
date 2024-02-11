@@ -2,6 +2,21 @@ This is an Ecom Flutter app project.
 
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
+
+##Features
+1. 🔐 User Login: Allow users to securely log in to their accounts using their credentials.
+
+2. ✏️ User Signup: Enable new users to create accounts by providing necessary information and registering securely.
+
+3. 🔍 User Check Product: Allow users to browse through a wide range of products available in the app.
+
+4. 🔄 Sort by Category: Provide users with the option to sort and filter products based on different categories for easy navigation.
+
+5. 🛒 Add to Cart: Enable users to add desired products to their shopping cart for convenient and quick purchase.
+
+6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
+
+
 Packages used:
 - google_fonts: Provides a way to easily use custom fonts from the Google Fonts library in Flutter apps.
 - easy_widgets: A package that offers easy-to-use widgets for common UI components in Flutter apps.
