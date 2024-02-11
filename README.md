@@ -3,6 +3,10 @@
 In this project, I used the Stacked architecture, which is a lightweight MVVM-inspired architecture that promotes separation of concerns and reactive programming in Flutter apps.
 
 <hr />
+## Api 
+```bash
+https://fakestoreapi.com/products
+```
 
 ## Features
 <hr />
