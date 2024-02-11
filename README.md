@@ -17,7 +17,15 @@ In this project, I used the Stacked architecture, which is a lightweight MVVM-in
 6. 📦 Placed Order: Allow users to place orders for the selected products and proceed with the checkout process for finalizing the purchase.
 
 ##ScreenShots
+
 ![plot](screenshot/IMG-20240211-WA0001.jpg)
+![plot](screenshot/IMG-20240211-WA0002.jpg)
+![plot](screenshot/IMG-20240211-WA0003.jpg)
+![plot](screenshot/IMG-20240211-WA0004.jpg)
+![plot](screenshot/IMG-20240211-WA0005.jpg)
+![plot](screenshot/IMG-20240211-WA0006.jpg)
+![plot](screenshot/IMG-20240211-WA0007.jpg)
+![plot](screenshot/IMG-20240211-WA0008.jpg)
 
 
 
